@@ -21,7 +21,7 @@ public class MainController {
 	@Autowired
 	MainService mainService;
 
-	@RequestMapping("/movies")
+	@RequestMapping("/books")
 	public List<Book> test() {
 
 				var movies = mainService.getAllBooks();

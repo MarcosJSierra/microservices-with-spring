@@ -1,2 +1,2 @@
-# microservices-with-spring
-Curso de microservicios BDG-TransUnion
+# Curso de microservicios BDG-TransUnion
+Este repositorio contiene un ejemplo de implementación de microservicios con un servidor de eureka junto con _circuit braker_ para entregable del curso impartido por BDG y TransUnion.

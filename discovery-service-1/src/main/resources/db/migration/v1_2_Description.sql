@@ -1,6 +1,6 @@
-INSERT INTO Movie values('1','Stone Giant','the best movie ever');
-INSERT INTO Movie values('2','Titanic','Nice movie!!!!');
-INSERT INTO Movie values('3','Safary','the best movie ever');
-INSERT INTO Movie values('4','Transformers','Nice movie!!!!');
-INSERT INTO Movie values('5','Brave Heart','the best movie ever');
-INSERT INTO Movie values('6','Saving private Ryan','Nice movie!!!!');
+INSERT INTO Movie values('1','Guia triste sobre paris','Libraso');
+INSERT INTO Movie values('2','Abadon el Exterminador','Libro Increible');
+INSERT INTO Movie values('3','El general no tiene quien le escriba','Un gran libro');
+INSERT INTO Movie values('4','Amamos tanto a Glenda','Una experiencia genial');
+INSERT INTO Movie values('5','Nocturna','Un libro increible');
+INSERT INTO Movie values('6','Uno y el universo','Sencillamente genial');
